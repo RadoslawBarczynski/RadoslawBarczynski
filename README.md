@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Radosław Barczyński</h1>
-<h3 align="center">A passionate unity & frontend developer from Poland</h3>
+<h3 align="center">A passionate unity & backend developer from Poland</h3>
 
 - 🔭 I’m currently working on [Phone Investigation Game](https://github.com/RadoslawBarczynski/PhoneGame)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-web-page-rouge.vercel.app/](https://portfolio-web-page-rouge.vercel.app/)
 
