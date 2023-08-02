@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StudentsManagementWebsite](https://github.com/RadoslawBarczynski/StudentsManagementWebsite)
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-web-page-rouge.vercel.app/](https://portfolio-web-page-rouge.vercel.app/)
 
