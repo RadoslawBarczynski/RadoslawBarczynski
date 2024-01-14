@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radosław Barczyński</h1>
 <h3 align="center">A passionate unity & fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [StudentsManagementWebsite](https://github.com/RadoslawBarczynski/IsometricGame2.0)
+- 🔭 I’m currently working on [IsometricGame2.0](https://github.com/RadoslawBarczynski/IsometricGame2.0)
 
 - 🌱 I’m currently learning **Next.js**
 
