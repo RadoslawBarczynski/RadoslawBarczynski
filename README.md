@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radosław Barczyński</h1>
-<h3 align="center">A passionate unity & fullstack developer from Poland</h3>
-
-- 🔭 I’m currently working on [IsometricGame2.0](https://github.com/RadoslawBarczynski/IsometricGame2.0)
-
-- 🌱 I’m currently learning **Next.js**
+<h3 align="center">A passionate unity & Fullstack .NET Developer from Poland</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-web-page-rouge.vercel.app/](https://portfolio-web-page-rouge.vercel.app/)
 
