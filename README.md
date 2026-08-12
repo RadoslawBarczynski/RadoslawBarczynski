@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radosław Barczyński</h1>
-<h3 align="center">A passionate unity & Fullstack .NET Developer from Poland</h3>
+<h3 align="center">A Fullstack .NET Developer from Poland</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-web-page-rouge.vercel.app/](https://portfolio-web-page-rouge.vercel.app/)
 
