@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-web-page-rouge.vercel.app/](https://portfolio-web-page-rouge.vercel.app/)
 
-- 📝 I upload my games on [https://radoslawbarczynski.itch.io](https://radoslawbarczynski.itch.io)
-
 - 📫 How to reach me **radoslaw.barczynski00@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
